@@ -120,6 +120,6 @@
     "browserslist": ">=4.28.7 <5"
   },
   "dependencies": {
-    "preact": "^10.29.8"
+    "preact": "^11.0.2"
   }
 }
